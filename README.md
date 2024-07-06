@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a Wind Chill Calculator API that takes in a temperature and windspeed and returns the calculated temperature. Created to learn more about creating APIs.
+Project consists of a Wind Chill Calculator API that takes in a temperature and windspeed and returns the calculated temperature. Created to learn more about APIs.
 <br />
 
 
